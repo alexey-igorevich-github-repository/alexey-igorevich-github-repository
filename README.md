@@ -1,3 +1,22 @@
+```yaml
+name: Alexey
+located_in: Moscow, Russia
+from: Planet Earth
+last job: Technical Support Engineer
+education: ["Self-education"]
+company: Russian Export Hub
+past experiences: 
+  - ["Self-employed", "Backend Developer", "Humanity", "Russia", "2024-present"]
+  - ["Technical Support Engineer", "Anything", "Moscow City Sadovod Market", "Russia", "2024-2024"]
+  - ["Technical Support Engineer", "Anything", "Russian Oil Export Hub", "Russia", "2021-2024"]
+  - ["Side jobs", "Routine Automating / Development / Other non IT", "Employers && Companies", "Russia", "2011-2021"]
+
+fields_of_interests: ["Computer Science", "Development", "Cybersecurity"]
+technical_background: ["Aware of an IDE installation process"]
+currently_learning: ["Python", "Django", "React"]
+will_learn: ["C++", "Java"]
+hobbies: ["Soldering", "Snowboarding", "Gardening"]
+```
 
 ###
   <div align ="center">
