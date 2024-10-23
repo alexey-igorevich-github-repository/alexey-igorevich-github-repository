@@ -3,9 +3,9 @@ name: Alexey
 located_in: Moscow, Russia
 from: Planet Earth
 
-fields_of_interests: ["Computer Science", "Development", "Cybersecurity"]
+fields_of_interests: ["Computer Science", "Technical and Exact Sciences"]
 technical_background: ["Aware of an IDE installation process"]
-currently_learning: ["Python", "Django", "React"]
+currently_learning: ["Software Development", "Cybersecurity", "日本語", "中文"]
 will_learn: ["C++", "Java"]
 hobbies: ["Soldering", "Snowboarding", "Gardening"]
 ```
