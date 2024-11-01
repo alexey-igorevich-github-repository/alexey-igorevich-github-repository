@@ -16,5 +16,3 @@ hobbies: ["Soldering", "Snowboarding", "Gardening"]
 | ------------- | ------------- |
 
 ###
-
-<span style="color: gray;">There is no spoon.</span>
